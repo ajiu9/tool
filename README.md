@@ -6,3 +6,4 @@
 - [regexper](https://regexper.com/) Reading Railroad Diagrams
 - [svgviewer](https://www.svgviewer.dev/) edit svg
 - [Figma](https://www.figma.com/)Figma helps design and development teams build great products, together.
+- [http-server](https://www.npmjs.com/package/http-server)a simple static HTTP server
